@@ -2,8 +2,6 @@
 import Script from "next/script";
 import gsap from 'gsap';
 import ScrollTrigger from 'gsap/ScrollTrigger';
-import ScrollSmoother from 'gsap/ScrollSmoother';
-import SplitText from 'gsap/SplitText';
 //= Common Components
 import LoadingScreen from "@/components/Common/Loader";
 import MouseCursor from "@/components/Common/MouseCursor";
@@ -23,58 +21,47 @@ import Footer from "@/components/AppsTechnology/Footer";
 import { useEffect } from 'react';
 
 // Register GSAP plugins
-gsap.registerPlugin(ScrollTrigger, ScrollSmoother, SplitText);
+gsap.registerPlugin(ScrollTrigger);
 
 export default function Home() {
   useEffect(() => {
-    // Initialize GSAP and ScrollSmoother
+    // Initialize GSAP animations
     const initGSAP = async () => {
-      const smoother = ScrollSmoother.create({
-        content: "#scrollsmoother-container",
-        smooth: 2,
-        normalizeScroll: true,
-        ignoreMobileResize: true,
-        effects: true
-      });
-
-      // Initialize split text animations
-      let headings = gsap.utils.toArray(".js-title").reverse();
-      headings.forEach((heading, i) => {
-        let headingIndex = i + 1;
-        let mySplitText = new SplitText(heading, { type: "chars" });
-        let chars = mySplitText.chars;
-
-        chars.forEach((char, i) => {
-          smoother.effects(char, { lag: (i + headingIndex) * 0.1, speed: 1 });
+      // Initialize scroll animations
+      const titles = gsap.utils.toArray(".js-title");
+      titles.forEach((title) => {
+        gsap.from(title, {
+          scrollTrigger: {
+            trigger: title,
+            start: "top 90%",
+            end: "bottom 60%",
+            scrub: false,
+            markers: false,
+            toggleActions: "play none none none"
+          },
+          duration: 1,
+          opacity: 0,
+          y: 100,
+          ease: "power3.out"
         });
       });
 
-      // Initialize parallax effects
-      let splitTextLines = gsap.utils.toArray(".js-splittext-lines");
-      splitTextLines.forEach(splitTextLine => {
-        const tl = gsap.timeline({
+      // Initialize text animations
+      const textLines = gsap.utils.toArray(".js-splittext-lines");
+      textLines.forEach(line => {
+        gsap.from(line, {
           scrollTrigger: {
-            trigger: splitTextLine,
+            trigger: line,
             start: 'top 90%',
-            duration: 1,
             end: 'bottom 60%',
             scrub: false,
             markers: false,
             toggleActions: 'play none none none'
-          }
-        });
-
-        const itemSplitted = new SplitText(splitTextLine, { type: "lines" });
-        gsap.set(splitTextLine, { perspective: 400 });
-        itemSplitted.split({ type: "lines" })
-        tl.from(itemSplitted.lines, { 
-          duration: 1, 
-          delay: 0, 
-          opacity: 0, 
-          rotationX: -80, 
-          force3D: true, 
-          transformOrigin: "top center -50", 
-          stagger: 0.1 
+          },
+          duration: 1,
+          opacity: 0,
+          y: 50,
+          ease: "power3.out"
         });
       });
     };
@@ -87,7 +74,7 @@ export default function Home() {
       <LoadingScreen />
       {/* Page Components */}
       <SideMenu />
-      <div id="scrollsmoother-container">
+      <div>
         <Header />
         <main>
           <Features />
