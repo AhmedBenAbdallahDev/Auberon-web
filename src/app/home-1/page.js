@@ -18,7 +18,7 @@ import Awards from "@/components/AgencyPortfolio/Awards";
 import Footer from "@/components/AgencyPortfolio/Footer";
 
 export const metadata = {
-  title: 'Swak - Agency Portfolio',
+  title: 'Auberon - Agency Portfolio',
   icons: {
     icon: "/logo.png",
     shortcut: "/logo.png",

@@ -9,7 +9,7 @@ import ScrollToTop from "@/components/Common/ScrollToTop";
 import NotFound from "@/components/InnerPages/404";
 
 export const metadata = {
-  title: 'Swak - Not Found',
+  title: 'Auberon - Not Found',
   icons: {
     icon: "/inner_pages/assets/img/fav2.png",
     shortcut: "/inner_pages/assets/img/fav2.png",

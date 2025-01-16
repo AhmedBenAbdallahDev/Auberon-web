@@ -22,7 +22,7 @@ import Blog from "@/components/CreativeAgency/Blog";
 import Footer from "@/components/CreativeAgency/Footer";
 
 export const metadata = {
-  title: 'Swak - Creative Agency',
+  title: 'Auberon - Creative Agency',
   icons: {
     icon: "/home_5/assets/img/fav.png",
     shortcut: "/home_5/assets/img/fav.png",

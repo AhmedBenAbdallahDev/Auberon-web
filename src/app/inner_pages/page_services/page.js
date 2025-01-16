@@ -15,7 +15,7 @@ import Testimonials from "@/components/InnerPages/Services/Testimonials";
 import Footer from "@/components/InnerPages/Common/Footer";
 
 export const metadata = {
-  title: 'Swak - Services',
+  title: 'Auberon - Services',
   icons: {
     icon: "/inner_pages/assets/img/fav2.png",
     shortcut: "/inner_pages/assets/img/fav2.png",

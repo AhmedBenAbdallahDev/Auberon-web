@@ -18,7 +18,7 @@ import Blog from "@/components/PersonalPortfolio/Blog";
 import Footer from "@/components/PersonalPortfolio/Footer";
 
 export const metadata = {
-  title: 'Swak - Personal Portfolio',
+  title: 'Auberon - Personal Portfolio',
   icons: {
     icon: "/home_8/assets/img/fav2.png",
     shortcut: "/home_8/assets/img/fav2.png",

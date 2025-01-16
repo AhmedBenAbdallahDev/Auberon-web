@@ -18,7 +18,7 @@ import Testimonials from "@/components/BusinessShowcase/Testimonials";
 import Footer from "@/components/BusinessShowcase/Footer";
 
 export const metadata = {
-  title: 'Swak - Business Showcase',
+  title: 'Auberon - Business Showcase',
   icons: {
     icon: "/home_6/assets/img/fav2.png",
     shortcut: "/home_6/assets/img/fav2.png",

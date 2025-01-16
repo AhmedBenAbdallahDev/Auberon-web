@@ -1,6 +1,6 @@
 import Script from "next/script";
 //= Scripts
-import generateStylesheetObject from '@/common/generateStylesheetsObject';
+import generateStylesheetObject from '@/common/generateStylesheetObject';
 //= Common Components
 import LoadingScreen from "@/components/Common/Loader";
 import MouseCursor from "@/components/Common/MouseCursor";
@@ -12,7 +12,7 @@ import Blog from "@/components/InnerPages/Blog/Masonry";
 import Footer from "@/components/InnerPages/Common/Footer";
 
 export const metadata = {
-  title: 'Swak - Blog Masonry',
+  title: 'Auberon - Blog Masonry',
   icons: {
     icon: "/inner_pages/assets/img/fav2.png",
     shortcut: "/inner_pages/assets/img/fav2.png",

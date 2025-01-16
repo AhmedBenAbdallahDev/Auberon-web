@@ -17,7 +17,7 @@ import Blog from "@/components/ShopHome/Blog";
 import Footer from "@/components/ShopHome/Footer";
 
 export const metadata = {
-  title: 'Swak - Shop Home',
+  title: 'Auberon - Shop Home',
   icons: {
     icon: "/home_9/assets/img/fav2.png",
     shortcut: "/home_9/assets/img/fav2.png",

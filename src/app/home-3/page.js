@@ -21,7 +21,7 @@ import Contact from "@/components/ModernStartup/Contact";
 import Footer from "@/components/ModernStartup/Footer";
 
 export const metadata = {
-  title: 'Swak - Modern Startup',
+  title: 'Auberon - Modern Startup',
   icons: {
     icon: "/home_3/assets/img/fav2.png",
     shortcut: "/home_3/assets/img/fav2.png",

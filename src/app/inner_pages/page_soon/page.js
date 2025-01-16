@@ -9,7 +9,7 @@ import ScrollToTop from "@/components/Common/ScrollToTop";
 import Soon from "@/components/InnerPages/Soon";
 
 export const metadata = {
-  title: 'Swak - Coming Soon',
+  title: 'Auberon - Coming Soon',
   icons: {
     icon: "/inner_pages/assets/img/fav2.png",
     shortcut: "/inner_pages/assets/img/fav2.png",

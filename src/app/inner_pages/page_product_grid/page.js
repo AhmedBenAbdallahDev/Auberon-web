@@ -12,7 +12,7 @@ import Grid from "@/components/InnerPages/Product/Grid";
 import Footer from "@/components/InnerPages/Common/Footer";
 
 export const metadata = {
-  title: 'Swak - Product Grid',
+  title: 'Auberon - Product Grid',
   icons: {
     icon: "/inner_pages/assets/img/fav2.png",
     shortcut: "/inner_pages/assets/img/fav2.png",

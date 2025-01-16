@@ -10,7 +10,7 @@ import TopNavbar from "@/components/InnerPages/Common/TopNavbar";
 import Gallery from "@/components/InnerPages/Gallery";
 
 export const metadata = {
-  title: 'Swak - Gallery',
+  title: 'Auberon - Gallery',
   icons: {
     icon: "/inner_pages/assets/img/fav2.png",
     shortcut: "/inner_pages/assets/img/fav2.png",

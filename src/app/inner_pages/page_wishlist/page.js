@@ -12,7 +12,7 @@ import Wishlist from "@/components/InnerPages/Wishlist/Wishlist";
 import Footer from "@/components/InnerPages/Common/Footer";
 
 export const metadata = {
-  title: 'Swak - Wishlist',
+  title: 'Auberon - Wishlist',
   icons: {
     icon: "/inner_pages/assets/img/fav2.png",
     shortcut: "/inner_pages/assets/img/fav2.png",

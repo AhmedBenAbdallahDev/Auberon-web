@@ -12,7 +12,7 @@ import Masonry from "@/components/InnerPages/Portfolio/Masonry";
 import Footer from "@/components/InnerPages/Common/Footer";
 
 export const metadata = {
-  title: 'Swak - Portfolio Masonry',
+  title: 'Auberon - Portfolio Masonry',
   icons: {
     icon: "/inner_pages/assets/img/fav2.png",
     shortcut: "/inner_pages/assets/img/fav2.png",

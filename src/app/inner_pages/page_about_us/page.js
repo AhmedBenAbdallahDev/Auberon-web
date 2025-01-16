@@ -16,7 +16,7 @@ import Timeline from "@/components/InnerPages/AboutUs/Timeline";
 import Footer from "@/components/InnerPages/Common/Footer";
 
 export const metadata = {
-  title: 'Swak - About Us',
+  title: 'Auberon - About Us',
   icons: {
     icon: "/inner_pages/assets/img/fav2.png",
     shortcut: "/inner_pages/assets/img/fav2.png",

@@ -12,7 +12,7 @@ import Details from "@/components/InnerPages/ServiceDetails/Details";
 import Footer from "@/components/InnerPages/Common/Footer";
 
 export const metadata = {
-  title: 'Swak - Service Details',
+  title: 'Auberon - Service Details',
   icons: {
     icon: "/inner_pages/assets/img/fav2.png",
     shortcut: "/inner_pages/assets/img/fav2.png",

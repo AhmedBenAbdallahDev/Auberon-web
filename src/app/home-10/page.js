@@ -18,7 +18,7 @@ import Blog from "@/components/TechLanding/Blog";
 import Footer from "@/components/TechLanding/Footer";
 
 export const metadata = {
-  title: 'Swak - Tech Landing',
+  title: 'Auberon - Tech Landing',
   icons: {
     icon: "/home_10/assets/img/fav2.png",
     shortcut: "/home_10/assets/img/fav2.png",

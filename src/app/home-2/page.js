@@ -18,7 +18,7 @@ import Blog from "@/components/CreativeStudio/Blog";
 import Footer from "@/components/CreativeStudio/Footer";
 
 export const metadata = {
-  title: 'Swak - Creative Studio',
+  title: 'Auberon - Creative Studio',
   icons: {
     icon: "/home_2/assets/img/fav2.png",
     shortcut: "/home_2/assets/img/fav2.png",

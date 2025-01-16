@@ -12,7 +12,7 @@ import Showcase from "@/components/InnerPages/Portfolio/Showcase";
 import Footer from "@/components/InnerPages/Common/Footer";
 
 export const metadata = {
-  title: 'Swak - Portfolio Showcase',
+  title: 'Auberon - Portfolio Showcase',
   icons: {
     icon: "/inner_pages/assets/img/fav2.png",
     shortcut: "/inner_pages/assets/img/fav2.png",
