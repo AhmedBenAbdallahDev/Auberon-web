@@ -41,13 +41,13 @@ function LoadingScreen() {
       <div className="loader-wrap-heading">
         <span>
           <h2 className="load-text">
-            <span></span>
-            <span></span>
-            <span></span>
+            <span>x</span>
+            <span>x</span>
+            <span>x</span>
             <span>Auberon Agency</span>
-            <span></span>
-            <span></span>
-            <span></span>
+            <span>x</span>
+            <span>x</span>
+            <span>x</span>
           </h2>
         </span>
       </div>
