@@ -44,7 +44,7 @@ function LoadingScreen() {
             <span>x</span>
             <span>x</span>
             <span>x</span>
-            <span>Auberon Agency</span>
+            <span>A</span>
             <span>x</span>
             <span>x</span>
             <span>x</span>
