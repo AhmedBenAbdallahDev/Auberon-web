@@ -19,7 +19,7 @@ import Blog from "@/components/AppsTechnology/Blog";
 import Footer from "@/components/AppsTechnology/Footer";
 
 export const metadata = {
-  title: 'Swak - Apps Technology',
+  title: 'Auberon - Development Studio',
   icons: {
     icon: "/home_4/assets/img/fav2.png",
     shortcut: "/home_4/assets/img/fav2.png",
