@@ -20,10 +20,5 @@
     "react-dom": "18.2.0",
     "react-scroll-parallax": "^3.4.2",
     "swiper": "^8.4.6"
-  },
-  "main": "next.config.js",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  }
 }
