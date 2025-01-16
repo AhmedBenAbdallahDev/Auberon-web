@@ -1,7 +1,7 @@
 import { redirect } from 'next/navigation';
 
 export default function Home() {
-  redirect('/home-4');
+  redirect('/home');
 }
 
 export const metadata = {
