@@ -1,7 +1,6 @@
-export default function generateStylesheetObject(stylesheets) {
-  return stylesheets.map(stylesheet => ({
+export default function generateStylesheetObject(urls) {
+  return urls.map(url => ({
     rel: 'stylesheet',
-    url: stylesheet,
-    precedence: "default"
-  }))
+    url
+  }));
 }
