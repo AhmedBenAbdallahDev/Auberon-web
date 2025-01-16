@@ -1,38 +1,38 @@
 [
   {
     "id": 1,
-    "icon": "/home_4/assets/img/icons/1.png",
+    "icon": "/home/assets/img/icons/1.png",
     "num": "01",
-    "title": "Control Your Data With Just One Click"
+    "title": "Mobile App Development"
   },
   {
     "id": 2,
-    "icon": "/home_4/assets/img/icons/2.png",
+    "icon": "/home/assets/img/icons/2.png",
     "num": "02",
-    "title": "Control Your Data With Just One Click"
+    "title": "UI/UX Design"
   },
   {
     "id": 3,
-    "icon": "/home_4/assets/img/icons/3.png",
+    "icon": "/home/assets/img/icons/3.png",
     "num": "03",
-    "title": "Control Your Data With Just One Click"
+    "title": "Web Development"
   },
   {
     "id": 4,
-    "icon": "/home_4/assets/img/icons/1.png",
-    "num": "01",
-    "title": "Control Your Data With Just One Click"
+    "icon": "/home/assets/img/icons/1.png",
+    "num": "04",
+    "title": "Cloud Solutions"
   },
   {
     "id": 5,
-    "icon": "/home_4/assets/img/icons/2.png",
-    "num": "02",
-    "title": "Control Your Data With Just One Click"
+    "icon": "/home/assets/img/icons/2.png",
+    "num": "05",
+    "title": "API Integration"
   },
   {
     "id": 6,
-    "icon": "/home_4/assets/img/icons/3.png",
-    "num": "03",
-    "title": "Control Your Data With Just One Click"
+    "icon": "/home/assets/img/icons/3.png",
+    "num": "06",
+    "title": "DevOps Services"
   }
 ]

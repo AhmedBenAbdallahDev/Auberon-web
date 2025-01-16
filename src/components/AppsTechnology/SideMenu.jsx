@@ -16,8 +16,8 @@ function SideMenu() {
         <div className="content">
           <div className="logo">
             <a href="#" className="w-100">
-              <img src="/home_4/assets/img/logo.png" alt="" className="lt_item" />
-              <img src="/home_4/assets/img/logo_lt.png" alt="" className="dr_item" />
+              <img src="/home/assets/img/logo.png" alt="" className="lt_item" />
+              <img src="/home/assets/img/logo_lt.png" alt="" className="dr_item" />
             </a>
           </div>
           <div className="pages_links">

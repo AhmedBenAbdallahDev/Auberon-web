@@ -1,4 +1,3 @@
-import React from 'react'
 
 function Download() {
   return (
@@ -10,8 +9,8 @@ function Download() {
           </div>
           <div className="col-lg-6 text-lg-end mt-4 mt-lg-0">
             <div className="btns">
-              <a href="#" className="me-3"> <img src="/home_4/assets/img/header/play.svg" alt="" /> </a>
-              <a href="#"> <img src="/home_4/assets/img/header/apple.svg" alt="" /> </a>
+              <a href="#" className="me-3"> <img src="/home/assets/img/header/play.svg" alt="" /> </a>
+              <a href="#"> <img src="/home/assets/img/header/apple.svg" alt="" /> </a>
             </div>
           </div>
         </div>

@@ -86,8 +86,8 @@ function Features() {
           <div className="swiper-pagination"></div>
         </div>
       </div>
-      <img src="/home_4/assets/img/features.png" alt="" className="shap-1" />
-      <img src="/home_4/assets/img/icons/star.png" alt="" className="shap-2" data-speed="1" data-lag="0.7" />
+      <img src="/home/assets/img/features.png" alt="" className="shap-1" />
+      <img src="/home/assets/img/icons/star.png" alt="" className="shap-2" data-speed="1" data-lag="0.7" />
     </section>
   )
 }

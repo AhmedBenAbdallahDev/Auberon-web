@@ -31,17 +31,17 @@ function Screens() {
                   <Swiper {...swiperOptions} style={{ overflow: 'visible' }}>
                     <SwiperSlide>
                       <div className="img img-cover">
-                        <img src="/home_4/assets/img/screens/1.png" alt="" />
+                        <img src="/home/assets/img/screens/1.png" alt="" />
                       </div>
                     </SwiperSlide>
                     <SwiperSlide>
                       <div className="img img-cover">
-                        <img src="/home_4/assets/img/screens/2.png" alt="" />
+                        <img src="/home/assets/img/screens/2.png" alt="" />
                       </div>
                     </SwiperSlide>
                     <SwiperSlide>
                       <div className="img img-cover">
-                        <img src="/home_4/assets/img/screens/3.png" alt="" />
+                        <img src="/home/assets/img/screens/3.png" alt="" />
                       </div>
                     </SwiperSlide>
                   </Swiper>
@@ -52,17 +52,17 @@ function Screens() {
                   <Swiper {...swiperOptions} style={{ overflow: 'visible' }}>
                     <SwiperSlide>
                       <div className="img img-cover">
-                        <img src="/home_4/assets/img/screens/4.png" alt="" />
+                        <img src="/home/assets/img/screens/4.png" alt="" />
                       </div>
                     </SwiperSlide>
                     <SwiperSlide>
                       <div className="img img-cover">
-                        <img src="/home_4/assets/img/screens/5.png" alt="" />
+                        <img src="/home/assets/img/screens/5.png" alt="" />
                       </div>
                     </SwiperSlide>
                     <SwiperSlide>
                       <div className="img img-cover">
-                        <img src="/home_4/assets/img/screens/6.png" alt="" />
+                        <img src="/home/assets/img/screens/6.png" alt="" />
                       </div>
                     </SwiperSlide>
                   </Swiper>
@@ -73,17 +73,17 @@ function Screens() {
                   <Swiper {...swiperOptions} style={{ overflow: 'visible' }}>
                     <SwiperSlide>
                       <div className="img img-cover">
-                        <img src="/home_4/assets/img/screens/3.png" alt="" />
+                        <img src="/home/assets/img/screens/3.png" alt="" />
                       </div>
                     </SwiperSlide>
                     <SwiperSlide>
                       <div className="img img-cover">
-                        <img src="/home_4/assets/img/screens/2.png" alt="" />
+                        <img src="/home/assets/img/screens/2.png" alt="" />
                       </div>
                     </SwiperSlide>
                     <SwiperSlide>
                       <div className="img img-cover">
-                        <img src="/home_4/assets/img/screens/1.png" alt="" />
+                        <img src="/home/assets/img/screens/1.png" alt="" />
                       </div>
                     </SwiperSlide>
                   </Swiper>
