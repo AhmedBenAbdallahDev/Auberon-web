@@ -1,32 +1,32 @@
 [
   {
     "id": 1,
-    "imageLight": "/home/assets/img/logos/1.png",
-    "imageDark": "/home/assets/img/logos/01.png",
-    "stars": 5,
-    "picture": "/home/assets/img/testi_cl1.jpg",
-    "name": "John Smith",
-    "position": "CEO, Tech Solutions",
-    "comment": "Outstanding service and exceptional results. The team delivered beyond our expectations."
+    "imageLight": "/home_4/assets/img/logos/1.png",
+    "imageDark": "/home_4/assets/img/logos/01.png",
+    "content": "“Swak a studio with passionate, professional and full creativity. A much more than what i’m expect great services, high quality product & affordable price. “",
+    "picture": "/home_4/assets/img/testi_cl1.jpg",
+    "author": "Gordon D. Gowsi",
+    "position": "CEO",
+    "project": "Zumar"
   },
   {
     "id": 2,
-    "imageLight": "/home/assets/img/logos/2.png",
-    "imageDark": "/home/assets/img/logos/02.png",
-    "stars": 5,
-    "picture": "/home/assets/img/testi_cl2.jpg",
-    "name": "Sarah Johnson",
-    "position": "Product Manager",
-    "comment": "Professional team with great attention to detail. Our app looks and performs amazingly."
+    "imageLight": "/home_4/assets/img/logos/2.png",
+    "imageDark": "/home_4/assets/img/logos/02.png",
+    "content": "“Swak a studio with passionate, professional and full creativity. A much more than what i’m expect great services, high quality product & affordable price. “",
+    "picture": "/home_4/assets/img/testi_cl2.jpg",
+    "author": "Gordon D. Gowsi",
+    "position": "CEO",
+    "project": "Zumar"
   },
   {
     "id": 3,
-    "imageLight": "/home/assets/img/logos/3.png",
-    "imageDark": "/home/assets/img/logos/03.png",
-    "stars": 5,
-    "picture": "/home/assets/img/testi_cl4.jpg",
-    "name": "Michael Brown",
-    "position": "CTO, Innovate Inc",
-    "comment": "Excellent communication and timely delivery. Would highly recommend their services."
+    "imageLight": "/home_4/assets/img/logos/3.png",
+    "imageDark": "/home_4/assets/img/logos/03.png",
+    "content": "“Swak a studio with passionate, professional and full creativity. A much more than what i’m expect great services, high quality product & affordable price. “",
+    "picture": "/home_4/assets/img/testi_cl4.jpg",
+    "author": "Gordon D. Gowsi",
+    "position": "CEO",
+    "project": "Zumar"
   }
 ]

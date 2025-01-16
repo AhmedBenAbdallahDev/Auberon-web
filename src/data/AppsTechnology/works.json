@@ -1,20 +1,20 @@
 [
   {
     "id": 1,
-    "subTitle": "App Design",
-    "title": "Mobile App Development",
-    "image": "/home/assets/img/works/1.png"
+    "title": "Explore ideas faster with <BR> animation presets",
+    "subTitle": "Flexibility",
+    "image": "/home_4/assets/img/works/1.png"
   },
   {
     "id": 2,
-    "subTitle": "UI/UX Design",
-    "title": "User Interface Design",
-    "image": "/home/assets/img/works/2.png"
+    "title": "Fraud. No longer your problem <BR> with business app",
+    "subTitle": "Easy To Use",
+    "image": "/home_4/assets/img/works/2.png"
   },
   {
     "id": 3,
-    "subTitle": "Web Design",
-    "title": "Web Development",
-    "image": "/home/assets/img/works/3.png"
+    "title": "Detection is guaranteed to <BR> keep you covered with 100% of <BR> chargeback protection.",
+    "subTitle": "Business Growth",
+    "image": "/home_4/assets/img/works/3.png"
   }
 ]

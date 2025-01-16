@@ -1,4 +1,5 @@
 "use client";
+import React from 'react';
 
 function Navbar() {
   function openSideMenu(event) {
@@ -11,8 +12,8 @@ function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-light tc-navbar-style4">
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
-          <img src="/home/assets/img/logo.png" alt="" className="logo lt_item" />
-          <img src="/home/assets/img/logo_lt.png" alt="" className="logo dr_item" />
+          <img src="/home_4/assets/img/logo.png" alt="" className="logo lt_item" />
+          <img src="/home_4/assets/img/logo_lt.png" alt="" className="logo dr_item" />
         </a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

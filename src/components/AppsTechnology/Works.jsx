@@ -26,16 +26,16 @@ function Works() {
       <div className="about-marqee-style4">
         <Swiper {...swiperOptions}>
           <SwiperSlide>
-            <a href="#"> Suitable App Showcase  <span className="icon-35 mx-5"> <img src="/home/assets/img/icons/star2.png" alt="" /> </span> </a>
+            <a href="#"> Suitable App Showcase  <span className="icon-35 mx-5"> <img src="/home_4/assets/img/icons/star2.png" alt="" /> </span> </a>
           </SwiperSlide>
           <SwiperSlide>
-            <a href="#"> Top-Notch Design  <span className="icon-35 mx-5"> <img src="/home/assets/img/icons/star2.png" alt="" /> </span> </a>
+            <a href="#"> Top-Notch Design  <span className="icon-35 mx-5"> <img src="/home_4/assets/img/icons/star2.png" alt="" /> </span> </a>
           </SwiperSlide>
           <SwiperSlide>
-            <a href="#"> Suitable App Showcase  <span className="icon-35 mx-5"> <img src="/home/assets/img/icons/star2.png" alt="" /> </span> </a>
+            <a href="#"> Suitable App Showcase  <span className="icon-35 mx-5"> <img src="/home_4/assets/img/icons/star2.png" alt="" /> </span> </a>
           </SwiperSlide>
           <SwiperSlide>
-            <a href="#"> Top-Notch Design  <span className="icon-35 mx-5"> <img src="/home/assets/img/icons/star2.png" alt="" /> </span> </a>
+            <a href="#"> Top-Notch Design  <span className="icon-35 mx-5"> <img src="/home_4/assets/img/icons/star2.png" alt="" /> </span> </a>
           </SwiperSlide>
         </Swiper>
       </div>
