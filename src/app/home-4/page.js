@@ -113,7 +113,7 @@ export default function Home() {
       <Script src="/common/assets/js/gsap_lib/ScrollTrigger.min.js" strategy="beforeInteractive" />
       <Script src="/common/assets/js/gsap_lib/SplitText.min.js" strategy="beforeInteractive" />
       <Script src="/common/assets/js/common_js.js" strategy="afterInteractive" />
-      <Script src="/home/assets/js/home_scripts.js" strategy="afterInteractive" />
+      <Script src="/home_4/assets/js/home_4_scripts.js" strategy="afterInteractive" />
     </body>
   )
 }
